@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Vijay Dabhi
 
-            A passionate developer from India
 <h1 align="center">Hi 👋, I'm Vijay Dabhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
