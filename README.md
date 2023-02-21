@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Certificates Management System**
 
-- 🌱 I’m currently learning **Node.js & Flutter**
+- 🌱 I’m currently learning **Node.js & React Native**
 
 - 📫 How to reach me **dabhivijay2478@gmail.com**
 
