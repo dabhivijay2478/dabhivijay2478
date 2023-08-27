@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js & React Native**
 
-- 🌱 Next Learn And Expoler The AI like Llama2(Meta Ai)
-
 - 📫 How to reach me **dabhivijay2478@gmail.com**
 
 
