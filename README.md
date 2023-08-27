@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js & React Native**
 
-- 📫 How to reach me **dabhivijay2478@gmail.com**
+- 🌱 Next Learn And Expoler The AI like Llama2(Meta Ai)
 
+- 📫 How to reach me **dabhivijay2478@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
