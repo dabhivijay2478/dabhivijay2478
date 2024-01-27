@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabhi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Certificates Management System**
+- 🔭 I’m currently working on **generate the custom content using custom dataset in ai model**
 
 - 🌱 I’m currently learning **Next.js & GraphQL**
 
