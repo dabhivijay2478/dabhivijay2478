@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabhi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js & GraphQL**
+- 🌱 I’m currently learning **Next.js & GraphQL & AWS **
 
 - 📫 How to reach me **vijaydabhi0428@gmail.com**
 
