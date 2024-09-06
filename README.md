@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabhi</h1>
 <h3 align="center">Open Source Contributor | React & Next.js Expert | AWS Enthusiast</h3>
 
-[![](https://visitcount.itsvg.in/api?id=dabhivijay2478 &icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=dabhivijay2478&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="left"> <a href="https://twitter.com/vijaydabhi28" target="blank"><img src="https://img.shields.io/twitter/follow/vijaydabhi28?logo=twitter&style=for-the-badge" alt="vijaydabhi28" /></a> </p>
 
