@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Dabhi</h1>
 <h3 align="center">Open Source Contributor | React & Next.js Expert | AWS Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhivijay2478&label=Profile%20views&color=0e75b6&style=flat" alt="dabhivijay2478" /> </p>
+[![](https://visitcount.itsvg.in/api?id=dabhivijay2478 &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/vijaydabhi28" target="blank"><img src="https://img.shields.io/twitter/follow/vijaydabhi28?logo=twitter&style=for-the-badge" alt="vijaydabhi28" /></a> </p>
 
