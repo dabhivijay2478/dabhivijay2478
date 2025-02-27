@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vijaydabhi28" target="blank"><img src="https://img.shields.io/twitter/follow/vijaydabhi28?logo=twitter&style=for-the-badge" alt="vijaydabhi28" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://vijaydabhi.netlify.app/](https://vijaydabhi.netlify.app/)
 
