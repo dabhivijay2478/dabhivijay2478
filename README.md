@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/vijaydabhi28" target="blank"><img src="https://img.shields.io/twitter/follow/vijaydabhi28?logo=twitter&style=for-the-badge" alt="vijaydabhi28" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS & Database**
 
 - 👨‍💻 All of my projects are available at [https://vijaydabhi.netlify.app/](https://vijaydabhi.netlify.app/)
 
-- 💬 Ask me about **React,Next.js,Nodejs,AWS**
+- 💬 Ask me about **ReactJS,Next.js,Nodejs,AWS**
 
 - 📫 How to reach me **vijaydabhi0428@gmail.com**
 
