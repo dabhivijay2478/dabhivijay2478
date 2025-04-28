@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS & Database**
 
-- 👨‍💻 All of my projects are available at [https://vijaydabhi.netlify.app/](https://vijaydabhi.netlify.app/)
+- 👨‍💻 All of my projects are available at [Vijay Dabhi](https://vijaydabhi.vercel.app/)
 
 - 💬 Ask me about **ReactJS,Next.js,Nodejs,AWS**
 
