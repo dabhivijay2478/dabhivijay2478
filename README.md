@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/vijaydabhi28" target="blank"><img src="https://img.shields.io/twitter/follow/vijaydabhi28?logo=twitter&style=for-the-badge" alt="vijaydabhi28" /></a> </p>
 
-- 🌱 I’m currently learning **AWS & Database**
+- 🌱 I’m currently learning **AWS/NestJS & Database**
 
 - 👨‍💻 All of my projects are available at [Vijay Dabhi](https://vijaydabhi.vercel.app/)
 
-- 💬 Ask me about **ReactJS,Next.js,Nodejs,AWS**
+- 💬 Ask me about **Nodejs,AWS**
 
-- 📫 How to reach me **vijaydabhi0428@gmail.com**
+- 📫 How to reach me **dabhivijay2478@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
